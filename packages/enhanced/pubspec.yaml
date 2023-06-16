@@ -20,6 +20,7 @@ dependencies:
   html: ^0.15.0
 
 dependency_overrides:
+  win32: 3.1.4
   flutter_widget_from_html_core:
     path: ../core
   fwfh_cached_network_image:
